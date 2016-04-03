@@ -1,0 +1,2 @@
+module BotSettingsHelper
+end

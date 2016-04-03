@@ -1,0 +1,2 @@
+class BotChecksDoublesController < ApplicationController
+end

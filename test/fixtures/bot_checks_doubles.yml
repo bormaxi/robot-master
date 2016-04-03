@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  registration_id: MyString
+  message_sent: MyString
+  replied: false
+  was_registered: false
+  year_fix: 1
+
+two:
+  registration_id: MyString
+  message_sent: MyString
+  replied: false
+  was_registered: false
+  year_fix: 1

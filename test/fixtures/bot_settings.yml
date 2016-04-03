@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  enabled: false
+  scan_time: 1
+  sms_enabled: false
+  double_reg_enabled: false
+  drupal_path: MyString
+
+two:
+  enabled: false
+  scan_time: 1
+  sms_enabled: false
+  double_reg_enabled: false
+  drupal_path: MyString
